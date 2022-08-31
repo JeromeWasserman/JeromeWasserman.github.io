@@ -1,10 +1,10 @@
 {
   "basics": {
-    "name": "Jerome Wasserman"
+    "name": "Molly Maluhia",
     "label": "Student",
     "picture": "https://github.com/kambergjohnson.png",
-    "email": "jeromew@hawaii.edu",
-    "phone": "808-462-9836",
+    "email": "molly@hawaii.edu",
+    "phone": "808-333-4444",
     "website": "https://mmaluhia.github.io",
     "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
@@ -16,25 +16,28 @@
     ]
   },
   "interests": [
-    { "name": "Biocomputers" },
-    { "name": "Game development" },
+    { "name": "Interactive media" },
+    { "name": "Neuromorphic Computing" },
+    { "name": "Quantum Computing" },
+    { "name": "Robotics" },
+    { "name": "3D Graphics" }
   ],
   "skills": [
     {
       "name": "Languages and Frameworks",
-      "keywords": [ "C", "C++", "Java", "Javascript" ]
+      "keywords": [ "C", "C++", "Java", "Javascript", "Assembly", "Common Lisp" ]
     },
     {
       "name": "Toolsets/OS",
-      "keywords": [ "MacOS", "Git/GitHub", "TI LaunchPad", "Windows11" ]
+      "keywords": [ "MacOS", "Ubuntu", "Git/GitHub", "g++", "TI LaunchPad" ]
     }
   ],
   "education": [
     {
       "institution": "University of Hawaii, Honolulu, HI",
-      "area": "Computer Science (expected Spring, 2025)",
+      "area": "Computer Science (expected Spring, 2018)",
       "studyType": "B.S.",
-      "startDate": "2019-08-22",
+      "startDate": "2013-09-01",
       "endDate": "Present",
       "courses": [
       ]
