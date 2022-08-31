@@ -11,8 +11,7 @@ labels:
   - Javascript
 ---
 
-<img width="300px" class="rounded float-start pe-4" src="../img/smart-questions/rtfm.png">
-## JavaScript in to the Fold!
+## JavaScript in to the Fold
 I have heard about Javascript before I took this class and never thought it would be a rough start since it seems like we dove in head first in a raging river. This to me is unheard of, especially since I am just a beginner that never really heard about the difficuly of this language. My prior experiences with this language would be mentions in different coding forums. From what I heard JS or javascript is used extensively in many workplaces in the nation and seems very crucial on many ICS students future endeavors. I believe it is not a bad language since it is required by many work places and jobs tend to have preferrence for people with JS knowledge(and a CS degree!). Even though, COBOL and python programmers seems to be in demand currently. Furthermore, it is a good language nonetheless since it has many shortcuts like python but will need some time to smoothen out the experience on learning JS or Javascript.
 
 ## Shocking but a sad reality...
