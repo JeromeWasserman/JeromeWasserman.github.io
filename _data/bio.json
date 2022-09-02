@@ -6,13 +6,11 @@
     "email": "jeromew@hawaii.edu",
     "phone": "808-462-9836",
     "website": "https://JeromeWasserman.github.io",
-    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Spring, 2024.",
+    "summary": "I am studying for a B.S. in Computer Science in the Department of Information and Computer Sciences at the University of Hawaii. I expect to graduate in Fall, 2024.",
     "location": { "address": "", "postalCode": "96822", "city": "Honolulu", "countryCode": "USA", "region": "Hawaii" },
     "profiles": [
-      { "network": "github", "username": "mmaluhia", "url": "http://github.com/changeme" },
-      { "network": "linkedin", "username": "mollymaluhia", "url": "http://linkedin.com/in/changeme" },
-      { "network": "twitter", "username": "mollymal", "url": "http://twitter.com/changeme" },
-      { "network": "instagram", "username": "molly", "url": "http://instagram.com/changeme" }
+      { "network": "github", "username": "mmaluhia", "url": "http://github.com/JeromeWasserman" },
+      { "network": "linkedin", "username": "JeromeWasserman", "url": "http://linkedin.com/in/jerome-wasserman-a26864232/" },
     ]
   },
   "interests": [
