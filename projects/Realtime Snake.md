@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: 
+image: img/snake.png
 title: "Real-time snake"
 date: 2018
 published: true
