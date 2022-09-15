@@ -2,7 +2,7 @@
 ---
 layout: project
 type: project
-image: img/pokedex.png
+image: img/pokedex.jpg 
 title: "Pokedex"
 date: 2020
 published: true
@@ -12,7 +12,7 @@ labels:
 summary: "The final project for ICS111."
 ---
 
-<img class="img-fluid" src="../img/pokedex.png">
+<img class="img-fluid" src="../img/pokedex.jpg ">
 
 This is a project that I did by myself during my time when I was still in ICS 111 it was a very simple project that played around with arrays. This is my first time I have ever done a big project on Java but I was excited to work on it since I am fan of pokemon.
 
