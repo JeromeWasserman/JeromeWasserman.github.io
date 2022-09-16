@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokedex1.jpg 
+image: img/pokedex1.png 
 title: "Pokedex 2"
 date: 2021
 published: true
@@ -11,7 +11,7 @@ labels:
 summary: "A major project for ICS212."
 ---
 
-<img class="img-fluid" src="../img/pokedex1.jpg ">
+<img class="img-fluid" src="../img/pokedex1.png ">
 
 This is the final project ICS211 project(and probably the last time I used Java) and one of the more interesting project that I did. It was a group of 2 people only and the entire point of this project is to create GUI design, catch pokemon, and display them on the screen. In this project I contributed on sorting and storing pokemon in the array.
 
