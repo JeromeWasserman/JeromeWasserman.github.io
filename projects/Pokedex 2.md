@@ -21,4 +21,4 @@ I learned a lot in this project especially when it comes to GUI design which som
 
 
 
-Source: <a href=https://github.com/ICSatKCC/assignment-9-f21-final-project-gui-a9-jerome-w-danny-l/tree/develop</a>
+Source: (https://github.com/ICSatKCC/assignment-9-f21-final-project-gui-a9-jerome-w-danny-l/tree/develop)
