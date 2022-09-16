@@ -1,7 +1,7 @@
 ---
 layout: project
 type: project
-image: img/pokedex1.png 
+image: img/pd.png 
 title: "Pokedex 2"
 date: 2021
 published: true
