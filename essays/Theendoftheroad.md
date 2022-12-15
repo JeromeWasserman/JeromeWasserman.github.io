@@ -14,13 +14,13 @@ labels:
 
 ## The end of the road . . .
 
-<img width="500px" class="fluid rounded float-start pe-4" src="https://live.staticflickr.com/7206/6848127027_3a592eb62f_b.jpg" alt="end of the road">
+<img width="300px" class="fluid rounded float-start pe-4" src="https://live.staticflickr.com/7206/6848127027_3a592eb62f_b.jpg" alt="end of the road">
 
 The entire semester was a big uphill battle that seem to never end. But at the same time there was something that made me push forward no matter what. This journey was not done by myself but also many of my peers who had the same battles and it was satisfying to also understand what push them forward. Agile Project Management made many issues that we had during our project seem simple and interesting. It always seem to focus on flexibility rather than a direction. It pushed people to improvise and adapt to their current situation. But it left many of us wandering about and many people could share the same sentiments. Maybe in the future there could be a far more robust form of management that will not leave many of us wandering in the blistering cold. I would hesitate on the use of this technique since it does not allow many of us to work in a disciplined manner. But maybe in the future it can be used in a far more effective manner since it allows many people flexibility and whatnot.
 
 ## A hunger that cannot be quenched . . .
 
-<img width="500px" class="fluid rounded float-start pe-4" src="https://dyslexiaoctopus.com/wp-content/uploads/2020/11/perfectionism.jpg" alt="food pic">
+<img width="300px" class="fluid rounded float-start pe-4" src="https://dyslexiaoctopus.com/wp-content/uploads/2020/11/perfectionism.jpg" alt="food pic">
 
 Design and simply how to make it function while still making it very pleasing to eye is almost a battle between necessity and wants. In the end, necessity nor wants win but instead burning passion develops and the burning desire that cannot simply be drenched. An artist in some aspect is a perfectionist while the builder is ingenious. This combination allows me to understand that idea during our project. Design patterns are finding solutions which can be repeated in a effective manner. Maybe reinventing the wheel does not sound so bad after all, right? I never would imagined that design patterns especially pertaining to full-stack development could fulfilling but demanding. In the future it could be an interesting thought when many us in our cusp of life then we might finally realize that many perfectionists are hungry and never satisfied.
 
