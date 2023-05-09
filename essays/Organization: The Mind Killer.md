@@ -20,8 +20,6 @@ During the journey, I realized that the project could have been better if we did
 
 ## The Solution
 
-<img width="300px" class="rounded float-start pe-4" src="[https://www.freepik.com/free-photo/person-taking-care-office-cleaning_25219793.htm#query=clean&position=2&from_view=search&track=sph](https://img.freepik.com/free-photo/person-taking-care-office-cleaning_23-2149374468.jpg?w=1060&t=st=1683610574~exp=1683611174~hmac=94864a7991bdbc291b4dc82be549b97830b324bda9d4131d9b870ddbdb233a24)">
-
 I found that during my time working on this project is that planning out the project especially on the backend side of things can help in the long run because it would allow us to simply make simple changes. Another, would be making sure that certain functions like buttons and such should be done in a linear function so it does not feel repetitive to make the 5th button to add something. Maybe a far more linear solution was better and careful planning could have made it even better so we would not be making a mad rush to simply fix it. I could imagine that many turbulances in this project could be a death sentence in jobs where many customers could have difficult specifications. Maybe this is not truly a fix-all solution but I found it hilarious that if planning out was done in a far more serious consideration then we would not be making mad rushes to the finish. Repetitive functions, having multiple of the same collections, and making quick fixes around the deadline is a recipe for a disaster.
 
 ## Conclusion
